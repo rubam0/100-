@@ -1,0 +1,10 @@
+a="ruba"
+b="""
+ruba
+mohsen
+khalil
+"""
+print(a)
+print(b)
+print(a[0])
+print(b[3:5])
