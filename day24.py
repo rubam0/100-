@@ -1,0 +1,13 @@
+dic={"name":"ruba","old":21,"gender":"female"}
+newdic=dic.copy()
+print(newdic)
+mydic=dict(dic)
+print(mydic)
+big={"name":{"ruba":3,"rr":0},"old":{"new":3,"mm":9}}
+print(big)
+my={"name":"ruba"}
+me={"old":21}
+big2={"my":my,"me":me}
+print(big2)
+new=dict(name="ruba",old=21,gender="female")
+print(new)
